@@ -405,3 +405,4 @@ pbs.twimg.com
 id.google.com
 i.pinimg.com
 tracking-protection.cdn.mozilla.net
+volumio.local
